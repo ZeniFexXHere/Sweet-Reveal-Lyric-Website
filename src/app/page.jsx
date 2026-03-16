@@ -58,8 +58,7 @@ export default function Home() {
           duration: 0.4,
         }}
         className="fixed bottom-4 right-4 text-sm text-white/40 pointer-events-none z-50 font-light">
-         My By ZeniFexX
-        @itz_zenifexx
+         Made By @itz_zenifexx
       </motion.div>
     </div>
   );
