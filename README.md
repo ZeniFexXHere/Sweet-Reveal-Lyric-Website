@@ -39,7 +39,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/itz_zenifexx)
+- 📷 Instagram: [@itz_zenifexx](https://instagram.com/itz_zenifexx)
 
 ---
 
