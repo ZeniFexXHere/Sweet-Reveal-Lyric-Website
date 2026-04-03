@@ -47,7 +47,7 @@ Follow me for more emotional surprise websites and creative dev content:
 
 If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **ZeniFexX** – _@itz_zenifexx_
 
 ---
 
